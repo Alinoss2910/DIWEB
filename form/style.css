@@ -1,7 +1,24 @@
 input:valid{
-    border-color: red;
+    border-color: blue;
 }
 
 input:invalid {
     background-color: red;
+}
+
+#name:out-of-range {
+    background-color: red;
+}
+
+a {
+    border: 1px blue;
+    background-color: lightblue;
+    padding: 5px;
+    margin: 5px;
+    text-decoration: none;
+    box-shadow: 2px 2px 5px;
+}
+
+a:hover {
+    background-color: lightgrey;
 }
