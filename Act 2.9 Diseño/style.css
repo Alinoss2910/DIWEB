@@ -1,0 +1,57 @@
+body {
+    background-color:blue;
+}
+
+div {
+    width: 600px;
+    border: 8px solid;
+    padding: 50px;
+    margin: 20px;
+    
+  }
+
+h1 {
+    background-color: red;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#parrafo {
+    text-align: justify;
+    color: white;
+    margin-left: 2px;
+    margin-right: 2px;
+
+}
+
+table, th, td {
+    border: 1px solid;
+    text-align: center;
+  }
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: #FF0000;
+  }
+  
+a:visited {
+    color: #00FF00;
+}
+
+p::first-letter {
+    color: #ff0000;
+    font-size: xx-large;
+}
+
+img {
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    z-index: 1;
+    width: 30px;
+    
+  }

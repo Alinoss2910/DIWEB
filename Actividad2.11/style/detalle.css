@@ -1,0 +1,29 @@
+#principal{
+    float: left;
+    column-count: 2;
+    width: 100%;
+}
+
+.pok {
+    height: 100%;
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+.pok img {
+    width: 30%;
+}
+
+.pok p{
+    font-weight: bold;
+}
+
+#texto{
+    font-weight: bold;
+    text-align: justify;
+}
+
+#main-banner img {
+    width: 100%;
+}
+

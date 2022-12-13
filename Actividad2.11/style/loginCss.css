@@ -1,0 +1,25 @@
+body, html {
+    height: 100%;
+    background-color: #fae800;
+    text-align: center;
+}
+
+img {
+    text-align: center;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+
+#enviar {
+    margin-bottom: 5%;
+}
+
+#form {
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+.container {
+    transform: translateY(10%);
+}
+
